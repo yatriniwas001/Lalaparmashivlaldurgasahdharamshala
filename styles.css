@@ -1342,4 +1342,54 @@ address {
 
   margin: 0 auto;
 
+  border-radius: 14px;
+}
+
+.lightbox-figure figcaption {
+  margin-top: 0.75rem;
+
+  color: rgba(250, 246, 238, 0.85);
+
+  font-size: 0.85rem;
+  text-align: center;
+}
+
+.lightbox-close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+
+  display: grid;
+  place-items: center;
+
+  width: 2.75rem;
+  height: 2.75rem;
+
+  border: 1px solid rgba(250, 246, 238, 0.4);
+  border-radius: 999px;
+
+  background: transparent;
+  color: #faf6ee;
+
+  cursor: pointer;
+}
+
+
+/* =========================================================
+   23. REDUCED MOTION
+   ========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
   
