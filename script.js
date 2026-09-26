@@ -28,9 +28,9 @@
       address:
         "Nainital Rd, Tallital, Nainital, Uttarakhand 263001, India",
 
-      phoneDisplay: "+91 79961 93849",
+      phoneDisplay: "+91 97428 08385",
 
-      phoneTel: "tel:+917996193849",
+      phoneTel: "tel:+919742808385",
 
       mapsUrl:
         "https://maps.app.goo.gl/72707WuKq8hdhXni9",
