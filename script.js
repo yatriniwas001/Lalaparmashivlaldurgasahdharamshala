@@ -28,9 +28,9 @@
       address:
         "Nainital Rd, Tallital, Nainital, Uttarakhand 263001, India",
 
-      phoneDisplay: "+91 97428 08385",
+      phoneDisplay: "+91 97431 93855",
 
-      phoneTel: "tel:+919742808385",
+      phoneTel: "tel:+919743193855",
 
       mapsUrl:
         "https://maps.app.goo.gl/72707WuKq8hdhXni9",
@@ -144,22 +144,22 @@
       {
         q: "How do I book a room?",
         a:
-          "Bookings and availability are handled directly over the phone. Please call +91 79961 93849. We do not take payments or bookings through this website."
+          "Bookings and availability are handled directly over the phone. Please call +91 97431 93855. We do not take payments or bookings through this website."
       },
       {
         q: "What types of rooms are available?",
         a:
-          "Room types, occupancy and current availability change through the season. Please call +91 79961 93849 for accurate, up-to-date information."
+          "Room types, occupancy and current availability change through the season. Please call +91 97431 93855 for accurate, up-to-date information."
       },
       {
         q: "What is the tariff?",
         a:
-          "Tariffs are not published on this website. Please call +91 79961 93849 for current rates."
+          "Tariffs are not published on this website. Please call +91 97431 93855 for current rates."
       },
       {
         q: "What facilities are provided?",
         a:
-          "Please call +91 79961 93849 to confirm the facilities available at the time of your stay."
+          "Please call +91 97431 93855 to confirm the facilities available at the time of your stay."
       },
       {
         q: "What are the check-in and check-out timings?",
